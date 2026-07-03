@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Build output
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
