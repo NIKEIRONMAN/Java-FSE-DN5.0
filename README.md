@@ -1,10 +1,12 @@
 # Java-FSE-DN5.0
 
-This repository contains my solutions for the **Java FSE (Full Stack Engineering) Training Program**.
+This repository contains my solutions for the **Java FSE (Full Stack Engineering) Training Program**. Each week focuses on a different technology stack, covering core Java, databases, Spring Boot, Microservices, React, Git, and Angular.
+
+---
 
 ## Repository Structure
 
-```
+```text
 Java-FSE-DN5.0
 │
 ├── Week-1 Engineering Concepts
@@ -33,9 +35,29 @@ Java-FSE-DN5.0
 
 ---
 
+# Week 2 - Programming Languages
+
+### PL/SQL Programming
+
+#### Exercise 1 - Control Structures
+
+- Scenario 1: Discount Loan Interest for Senior Citizens
+- Scenario 2: Customer VIP Promotion
+- Scenario 3: Loan Due Reminder System
+
+#### Exercise 3 - Stored Procedures
+
+- Scenario 1: Process Monthly Interest
+- Scenario 2: Update Employee Bonus
+- Scenario 3: Transfer Funds Between Accounts
+
+---
+
 ## Technologies Used
 
 - Java
+- PL/SQL
+- Oracle SQL
 - Data Structures and Algorithms
 - Design Patterns
 - IntelliJ IDEA
@@ -49,7 +71,7 @@ Java-FSE-DN5.0
 | Week | Status |
 |------|--------|
 | Week 1 - Engineering Concepts | ✅ Completed |
-| Week 2 - Programming Languages | ⏳ In Progress |
+| Week 2 - Programming Languages | ✅ Completed |
 | Week 3 - Spring Core and Maven | ⏳ Pending |
 | Week 4 - Spring Data JPA | ⏳ Pending |
 | Week 5 - Spring REST | ⏳ Pending |
@@ -61,6 +83,6 @@ Java-FSE-DN5.0
 
 ## Author
 
-**Nitin Rathore**
+**Nitin Rathor**
 
 - GitHub: https://github.com/NIKEIRONMAN
