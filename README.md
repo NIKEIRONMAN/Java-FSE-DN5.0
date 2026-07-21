@@ -30,6 +30,16 @@ Java-FSE-DN5.0
 │
 ├── Week-5 Deepskilling
 │   └── React
+│       ├── 1. ReactJS-HOL
+│       ├── 2. ReactJS-HOL
+│       ├── 3. ReactJS-HOL
+│       ├── 4. ReactJS-HOL
+│       ├── 5. ReactJS-HOL
+│       ├── 9. ReactJS-HOL
+│       ├── 10. ReactJS-HOL
+│       ├── 11. ReactJS-HOL
+│       ├── 12. ReactJS-HOL
+│       └── 13. ReactJS-HOL
 │
 ├── Week-6 Deepskilling
 │   ├── Git
@@ -76,7 +86,7 @@ Java-FSE-DN5.0
 | Week 2 | Spring Core, Maven, Spring Data JPA & Hibernate | ✅ Completed |
 | Week 3 | Spring REST using Spring Boot 3 | ✅ Completed |
 | Week 4 | Microservices with Spring Boot 3 & Spring Cloud | ✅ Completed |
-| Week 5 | React | ⏳ Pending |
+| Week 5 | React | ✅ Completed |
 | Week 6 | Git & CI/CD | ⏳ Pending |
 | Week 7 | Docker, Cloud & Generative AI | ⏳ Pending |
 
@@ -93,6 +103,22 @@ Java-FSE-DN5.0
 - 🔄 API Gateway
 - 🔄 Service Registration
 - 🔄 Global Logging Filter
+
+---
+
+## Week 5 Progress
+
+### Completed
+- ✅ ReactJS-HOL 1
+- ✅ ReactJS-HOL 2
+- ✅ ReactJS-HOL 3
+- ✅ ReactJS-HOL 4
+- ✅ ReactJS-HOL 5
+- ✅ ReactJS-HOL 9
+- ✅ ReactJS-HOL 10
+- ✅ ReactJS-HOL 11
+- ✅ ReactJS-HOL 12
+- ✅ ReactJS-HOL 13
 
 ---
 
