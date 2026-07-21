@@ -67,6 +67,7 @@ Java-FSE-DN5.0
 
 ---
 
+
 ## Progress
 
 | Week | Module | Status |
@@ -74,7 +75,7 @@ Java-FSE-DN5.0
 | Week 1 | Engineering Concepts & Programming Languages | ✅ Completed |
 | Week 2 | Spring Core, Maven, Spring Data JPA & Hibernate | ✅ Completed |
 | Week 3 | Spring REST using Spring Boot 3 | ✅ Completed |
-| Week 4 | Microservices with Spring Boot 3 & Spring Cloud | 🔄 In Progress |
+| Week 4 | Microservices with Spring Boot 3 & Spring Cloud | ✅ Completed |
 | Week 5 | React | ⏳ Pending |
 | Week 6 | Git & CI/CD | ⏳ Pending |
 | Week 7 | Docker, Cloud & Generative AI | ⏳ Pending |
