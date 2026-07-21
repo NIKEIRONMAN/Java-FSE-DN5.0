@@ -92,19 +92,6 @@ Java-FSE-DN5.0
 
 ---
 
-## Week 4 Progress
-
-### Completed
-- ✅ Account Microservice
-- ✅ Loan Microservice
-
-### In Progress
-- 🔄 Eureka Discovery Server
-- 🔄 API Gateway
-- 🔄 Service Registration
-- 🔄 Global Logging Filter
-
----
 
 ## Week 5 Progress
 
