@@ -1,148 +1,146 @@
 # Java-FSE-DN5.0
 
-This repository contains my solutions for the **Java Full Stack Engineering (FSE) Training Program**. The training covers Java fundamentals, PL/SQL, testing frameworks, Spring ecosystem, Microservices, React, Git, and Angular through weekly hands-on assignments.
+## Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (Java FSE)
+
+This repository contains my hands-on exercises, assignments, practice programs, and projects completed as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (Java FSE)** program.
+
+The repository is organized week-wise according to the official Deep Skilling roadmap and demonstrates my learning journey through Java, Spring Boot, Microservices, React, DevOps, and related technologies.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-```text
+```
 Java-FSE-DN5.0
 │
-├── Week-1 Engineering Concepts
-├── Week-2 Programming Languages
-├── Week-3 TDD using JUnit 5, Mockito & SLF4J
-├── Week-4 Spring Core and Maven
-├── Week-5 Spring Data JPA with Spring Boot & Hibernate
-├── Week-6 Spring REST using Spring Boot
-├── Week-7 Microservices with Spring Boot & Spring Cloud
-├── Week-8 React
-└── Week-9 Git and Angular
+├── Week-1 Deepskilling
+│   ├── Engineering Concepts
+│   └── Programming Languages
+│
+├── Week-2 Deepskilling
+│   ├── Spring Core & Maven
+│   ├── Spring Data JPA
+│   └── Hibernate
+│
+├── Week-3 Deepskilling
+│   └── Spring REST using Spring Boot 3
+│
+├── Week-4 Deepskilling
+│   ├── Code Quality & SonarQube
+│   └── Microservices with Spring Boot 3 & Spring Cloud
+│
+├── Week-5 Deepskilling
+│   └── React
+│
+├── Week-6 Deepskilling
+│   ├── Git
+│   ├── CI/CD
+│   └── React
+│
+└── Week-7 Deepskilling
+    ├── Docker
+    ├── Cloud Fundamentals
+    └── GenAI Fundamentals
 ```
 
 ---
 
-# Week 1 - Engineering Concepts
+## Learning Journey
 
-## Data Structures and Algorithms
+### Week 1
+- Design Patterns & Principles
+- Data Structures & Algorithms
+- PL/SQL Programming
+- Test Driven Development
+- Mockito
+- SLF4J Logging Framework
 
-- E-commerce Platform Search Function
-- Financial Forecasting
-
-## Design Patterns
-
-- Singleton Pattern
-- Factory Method Pattern
-
----
-
-# Week 2 - Programming Languages
-
-## PL/SQL Programming
-
-### Exercise 1 - Control Structures
-
-- Discount Loan Interest for Senior Citizens
-- Customer VIP Promotion
-- Loan Due Reminder System
-
-### Exercise 3 - Stored Procedures
-
-- Process Monthly Interest
-- Update Employee Bonus
-- Transfer Funds Between Accounts
-
----
-
-# Week 3 - TDD using JUnit 5, Mockito & SLF4J
-
-## JUnit 5
-
-### Exercise 1 - Setting Up JUnit
-
-- Maven Project Configuration
-- Writing Basic Unit Tests
-
-### Exercise 3 - Assertions in JUnit
-
-- assertEquals()
-- assertTrue()
-- assertFalse()
-- assertNull()
-- assertNotNull()
-
-### Exercise 4 - Arrange-Act-Assert (AAA) Pattern
-
-- Arrange
-- Act
-- Assert
-- Test Fixtures
-- Setup & Teardown Methods
-
----
-
-## Mockito
-
-### Exercise 1 - Mocking and Stubbing
-
-- Creating Mock Objects
-- Stubbing Method Responses
-
-### Exercise 2 - Verifying Interactions
-
-- verify()
-- Interaction Verification
-
----
-
-## SLF4J Logging
-
-### Exercise 1 - Logging Error Messages and Warning Levels
-
-- Logger
-- LoggerFactory
-- INFO Logging
-- WARN Logging
-- ERROR Logging
-
----
-
-# Technologies Used
-
-- Java 17
+### Week 2
+- Spring Core
 - Maven
+- Spring Data JPA
+- Hibernate
+
+### Week 3
+- Spring REST using Spring Boot 3
+
+### Week 4
+- Code Quality & SonarQube
+- Microservices with Spring Boot 3 & Spring Cloud
+
+### Week 5
+- React
+
+### Week 6
+- Git
+- CI/CD
+- React
+
+### Week 7
+- Docker
+- Cloud Fundamentals
+- Generative AI Fundamentals
+
+---
+
+## Technologies
+
+- Java
+- SQL & PL/SQL
 - JUnit 5
 - Mockito
 - SLF4J
-- Logback
-- PL/SQL
-- Oracle SQL
-- Data Structures & Algorithms
-- Design Patterns
-- IntelliJ IDEA
+- Maven
+- Spring Core
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Spring REST
+- Microservices
+- Spring Cloud
+- SonarQube
+- React
 - Git
-- GitHub
+- Docker
+- CI/CD
+- Cloud Fundamentals
+- Generative AI
 
 ---
 
-# Progress
+## Objectives
 
-| Week | Status |
-|------|--------|
-| Week 1 - Engineering Concepts | ✅ Completed |
-| Week 2 - Programming Languages | ✅ Completed |
-| Week 3 - TDD using JUnit 5, Mockito & SLF4J | ✅ Completed |
-| Week 4 - Spring Core and Maven | ⏳ Pending |
-| Week 5 - Spring Data JPA with Spring Boot & Hibernate | ⏳ Pending |
-| Week 6 - Spring REST using Spring Boot | ⏳ Pending |
-| Week 7 - Microservices with Spring Boot & Spring Cloud | ⏳ Pending |
-| Week 8 - React | ⏳ Pending |
-| Week 9 - Git and Angular | ⏳ Pending |
+- Build strong Java programming fundamentals.
+- Learn software design principles and design patterns.
+- Develop enterprise applications using Spring Boot.
+- Build RESTful APIs and Microservices.
+- Practice Test-Driven Development (TDD).
+- Learn frontend development with React.
+- Understand DevOps, Docker, Git, and CI/CD.
+- Follow industry best practices through hands-on exercises.
 
 ---
 
-# Author
+## Status
 
-**Nitin Rathor**
+| Week | Topics | Status |
+|------|--------|--------|
+| Week 1 | Engineering Concepts & Programming Languages | ✅ Completed |
+| Week 2 | Spring Core, Maven, Spring Data JPA, Hibernate | ✅ Completed |
+| Week 3 | Spring REST using Spring Boot 3 | ✅ Completed |
+| Week 4 | SonarQube & Microservices | 🔄 In Progress |
+| Week 5 | React | ⏳ Pending |
+| Week 6 | Git, CI/CD & React | ⏳ Pending |
+| Week 7 | Docker, Cloud & GenAI | ⏳ Pending |
 
-- GitHub: https://github.com/NIKEIRONMAN
+---
+
+## Author
+
+**Nitin Rathore**
+
+B.Tech Computer Science Engineering
+
+GLA University, Mathura
+
+GitHub: https://github.com/NIKEIRONMAN
